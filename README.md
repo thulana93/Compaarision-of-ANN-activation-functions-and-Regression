@@ -2,7 +2,7 @@
 # Compaarision-of-ANN-activation-functions-and-Regression
 Here I have compared different ANN activation functions and Regression to identify the which algorithm gives best result.
 
-This project compare the Logistics Regression, and following ANN actuators
+This project compare the Logistics Regression, and following ANN ANN activation functions
 	sigmoid
 	ReLU
 	tanh
